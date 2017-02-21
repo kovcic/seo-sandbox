@@ -8,8 +8,14 @@
     "react-scripts": "0.7.0"
   },
   "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "browser-http": "^4.0.2",
+    "es6-promise": "^4.0.5",
+    "isomorphic-fetch": "^2.2.1",
     "react": "^15.3.2",
-    "react-dom": "^15.3.2"
+    "react-dom": "^15.3.2",
+    "whatwg-fetch": "^2.0.2",
+    "yaku": "^0.17.8"
   },
   "scripts": {
     "start": "react-scripts start",
